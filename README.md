@@ -26,8 +26,6 @@ pip install -r requirements.txt
 Usage: Use the tool by running the main script.
 shell
 
-python main.py
-
 Configuration: Customize the tool by configuring the source of text input and your desired language for translation.
 # Contributing
 We welcome contributions from the open-source community. If you have ideas for improvements or new features, feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
