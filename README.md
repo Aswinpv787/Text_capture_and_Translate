@@ -1,4 +1,4 @@
-#Text Extraction and Translation Tool
+#Text Extraction and Translation Tool#
 
 Overview
 Welcome to the Text Extraction and Translation Tool by [Your Company]! This tool empowers you to capture text from a variety of sources, including images, PDFs, voice inputs, and traditional text typing. What's more, it offers seamless translation services, enabling you to convert the captured text into any language, tailored to your specific needs.
