@@ -15,16 +15,19 @@ To get started with the Text Extraction and Translation Tool, follow these steps
 
 Clone the Repository: Clone this repository to your local machine using Git.
 shell
-Copy code
+
 git clone https://github.com/Aswinpv787/Text_capture_and_Translate.git
+
 Install Dependencies: Install the required dependencies for the tool.
 shell
-Copy code
+
 pip install -r requirements.txt
+
 Usage: Use the tool by running the main script.
 shell
-Copy code
+
 python main.py
+
 Configuration: Customize the tool by configuring the source of text input and your desired language for translation.
 # Contributing
 We welcome contributions from the open-source community. If you have ideas for improvements or new features, feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
